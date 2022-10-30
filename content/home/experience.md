@@ -25,7 +25,7 @@ experience:
   - title: Data Analyst
     company: University of Guelph
     company_url: ''
-    company_logo: org-gc
+    company_logo: uog-logo
     location: California
     date_start: '2019-09-17'
     date_end: ''
