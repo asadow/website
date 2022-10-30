@@ -1,29 +1,25 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include data visualization and statistics, especially the measurement of latent factors.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MMath in Biostatistics
+    institution: Waterloo University
+    year: 2018
+  - course: BSc in Psychology
+    institution: University of Toronto
+    year: 2017
 email: ""
-first_name: Alice
+first_name: Adam
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Bighetti
+- Psychology (Personality, Chronic Pain Beliefs)
+- Psychometrics (Scale Development)
+- Data Visualization
+last_name: Sadowski
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: University of Guelph
+  url: https://www.uoguelph.ca/
+role: Data Analyst
 social:
 - icon: envelope
   icon_pack: fas
@@ -33,22 +29,20 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/adam_sadow
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=_7QnJiEAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/asadow
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/adamsad
 superuser: true
-title: Alice Bighetti 吳恩達
+title: Adam Sadowski
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am the data analyst for the Family Stress Study and Guelph Family Health Study. As the sole quant in his team, I lead data projects and tutorials on the statistical programming language R (based off my book: How to Be an Rtist).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}

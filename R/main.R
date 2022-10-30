@@ -1,5 +1,5 @@
 library(blogdown)
-
+library(here)
 ## Always run serve_site to start the Hugo server
 blogdown::serve_site()
 ## Show in new window
@@ -8,13 +8,27 @@ blogdown::serve_site()
 ## Make changes to the file, and Knit
 ## Knitted changes will show automatiicaly in Viewer
 ## and in browser (from Show in new window)
-blogdown::new_post(title = "Hi Dooood",
+blogdown::new_post(title = "R Aesthetics, Extensions, and Tidy Examples",
                    ext = '.Rmarkdown',
                    subdir = "post")
 
 blogdown::config_Rprofile()
 blogdown::check_gitignore()
 blogdown::check_content()
+
+rstudioapi::navigateToFile(here("config", "_default", "config.yaml"),
+                           line = 8)
+
+blogdown::config_netlify()
+blogdown::check_netlify()
+blogdown::check_hugo()
+blogdown::remove_hugo()
+rstudioapi::navigateToFile(here("config", "_default", "menus.yaml"))
+blogdown::check_config()
+
+rstudioapi::navigateToFile(here("content", "authors", "admin", "_index.md"))
+
+blogdown::check_site()
 
 
 ## This site was first made by
