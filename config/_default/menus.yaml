@@ -10,9 +10,12 @@ main:
   - name: Blog
     url: '#posts'
     weight: 20
-  # - name: Projects
-  #   url: '#projects'
-  #   weight: 30
+  - name: Music
+    url: https://adamsaffron.bandcamp.com/
+    weight: 25
+  - name: Writing
+    url: https://acuriouswriter.wordpress.com/
+    weight: 25
   # - name: Talks
   #   url: '#talks'
   #   weight: 40
@@ -21,7 +24,7 @@ main:
   #   weight: 50
   - name: Contact
     url: '#contact'
-    weight: 30
+    weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

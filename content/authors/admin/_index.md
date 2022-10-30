@@ -12,7 +12,7 @@ email: ""
 first_name: Adam
 highlight_name: true
 interests:
-- Psychology (Personality, Chronic Pain Beliefs)
+- Psychology (Personality, Pain Beliefs)
 - Psychometrics (Scale Development)
 - Data Visualization
 last_name: Sadowski
@@ -43,6 +43,6 @@ superuser: true
 title: Adam Sadowski
 ---
 
-I am the data analyst for the Family Stress Study and Guelph Family Health Study. As the sole quant in his team, I lead data projects and tutorials on the statistical programming language R (based off my book: How to Be an Rtist).
+I am the data analyst in the [Family Stress Study](https://www.famstress.com/) and [Family Health Study](https://guelphfamilyhealthstudy.com/). As the sole quant, I lead data projects and tutorials on the statistical programming language R (based off my book [How to Be an Rtist](https://bookdown.org/asadow/rtist/)).
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}
