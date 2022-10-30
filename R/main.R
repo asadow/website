@@ -6,7 +6,7 @@ blogdown::serve_site()
 
 ## Make a new post and an Rmarkdown file will open
 ## Make changes to the file, and Knit
-## Knitted changes will show automatiicaly in Viewer
+## Knitted changes will show automatically in Viewer
 ## and in browser (from Show in new window)
 blogdown::new_post(title = "R Aesthetics, Extensions, and Tidy Examples",
                    ext = '.Rmarkdown',
