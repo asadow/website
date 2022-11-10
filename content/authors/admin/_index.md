@@ -1,5 +1,5 @@
 ---
-bio: My research interests include data visualization and statistics, especially the measurement of latent factors.
+bio:
 education:
   courses:
   - course: MMath in Biostatistics
@@ -12,9 +12,11 @@ email: ""
 first_name: Adam
 highlight_name: true
 interests:
-- Psychology (Personality, Pain Beliefs)
-- Psychometrics (Scale Development)
+- Psychotherapy
+- Personality
+- Scale Development
 - Data Visualization
+- Spirituality 
 last_name: Sadowski
 organizations:
 - name: University of Guelph
@@ -25,10 +27,9 @@ social:
   icon_pack: fas
   link: /#contact
 - display:
-    header: true
+    header: false
   icon: twitter
   icon_pack: fab
-  label: Follow me on Twitter
   link: https://twitter.com/adam_sadow
 - icon: graduation-cap
   icon_pack: fas

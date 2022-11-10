@@ -30,6 +30,12 @@ rstudioapi::navigateToFile(here("content", "authors", "admin", "_index.md"))
 
 blogdown::check_site()
 
+blogdown::new_post(title = "The Monism of Presocratics, Starting with Heraclitus' 'Fire-Order'",
+                   ext = '.Rmarkdown',
+                   subdir = "post")
+
+rstudioapi::navigateToFile(here("config", "_default", "params.yaml"))
+
 
 ## This site was first made by
 # new_site(theme = "wowchemy/starter-academic")

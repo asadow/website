@@ -7,24 +7,19 @@ main:
   # - name: Home
   #   url: '#about'
   #   weight: 10
-  - name: Blog
+  - name: Scholar
+    url: https://scholar.google.com/citations?user=_7QnJiEAAAAJ&hl=en
+    weight: 10
+  - name: Writer
     url: '#posts'
     weight: 20
-  - name: Music
+  - name: Musician
     url: https://adamsaffron.bandcamp.com/
-    weight: 25
-  - name: Writing
-    url: https://acuriouswriter.wordpress.com/
     weight: 25
   # - name: Talks
   #   url: '#talks'
   #   weight: 40
-  # - name: Publications
-  #   url: '#featured'
-  #   weight: 50
-  - name: Contact
-    url: '#contact'
-    weight: 60
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
